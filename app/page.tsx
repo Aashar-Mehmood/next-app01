@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <main>
-      <h2>Hello Next</h2>
-    </main>
-  );
+  return <h2 className="text-2xl text-emerald-400">Home Page Content</h2>;
 }
