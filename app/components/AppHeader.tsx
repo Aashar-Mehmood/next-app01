@@ -6,7 +6,7 @@ export default function AppHeader() {
       <h2 className="m-0">Logo</h2>
       <div className="flex gap-4">
         <Link href={"/users"}>Users</Link>
-        <Link href={"/posts"}>Posts</Link>
+        <Link href={"/products"}>Products</Link>
       </div>
     </div>
   );
